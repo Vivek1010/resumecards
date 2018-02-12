@@ -4,7 +4,7 @@ demo: False
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "resumecards/_data/10313954_724243687639675_2059406509692516474_n.jpg"
+photo: "resumecards/_data/120.png"
 name: "Vivek Sheel Banger"
 copy: "A Network protocol developer, Bangalore, India. I'm currently working as a Software enginner at Cisco india."
 
